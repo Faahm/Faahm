@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="75" src="https://media.tenor.com/ikzslJI3dh8AAAAj/pixel-bunny.gif">
+<img align="right" alt="Coding" width="100" src="https://media.tenor.com/ikzslJI3dh8AAAAj/pixel-bunny.gif">
 
 [![MasterHead](https://github.com/Faahm/Faahm/blob/main/github-header-image.png)](https://github.com/Faahm)
 
