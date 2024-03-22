@@ -44,6 +44,10 @@
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
+
+## Often Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Faahm&theme=jolly&layout=compact)
+
 <!---
 Faahm/Faahm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
