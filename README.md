@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Faahm
-- 👀 I’m interested in programming, UI design, technology, video games, and digital art
-- 🌱 I’m currently a university student taking BS Computer Science
+![Header Image](https://github.com/Faahm/Faahm/blob/main/header.png)
 
 <!---
 Faahm/Faahm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
